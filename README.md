@@ -5,8 +5,8 @@ with citation links to be added from Semantic Scholar.
 
 ## Data source
 - arXiv metadata snapshot from Kaggle: https://www.kaggle.com/datasets/Cornell-University/arxiv
-- Version: [version number from the Kaggle page]
-- Downloaded: [date]
+- Version: 1
+- Downloaded: Oct 27, 2026
 
 The raw data isn't in this repo because it's too big. Download it from the link above
 and put `arxiv-metadata-oai-snapshot.json` in the project folder.
